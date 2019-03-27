@@ -1,0 +1,9 @@
+[package]
+name = "day8"
+version = "0.1.0"
+authors = ["Koza <kiskoza@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.2"
+text_io = "0.1.7"
