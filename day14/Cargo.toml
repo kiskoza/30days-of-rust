@@ -1,0 +1,9 @@
+[package]
+name = "day14"
+version = "0.1.0"
+authors = ["Koza <kiskoza@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.8.0"
+text_io = "0.1.7"
